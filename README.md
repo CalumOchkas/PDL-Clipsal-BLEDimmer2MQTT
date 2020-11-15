@@ -30,7 +30,7 @@ default-agent
 scan on
 ```
 
-Then, with the MAC address it returns for the dimmer:
+Then, with the MAC address it returns for the dimmer, press the dimmer button three times to initiate pairing mode, and run the following commands:
 ```
 scan off
 trust XX:XX:XX:XX:CH:28
